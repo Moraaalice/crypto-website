@@ -1,0 +1,344 @@
+.navbar{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    position: relative;left: 250px;
+}
+#button{
+    border-radius: 10px;
+    background-color: lightgreen;
+    position: relative; left: 60px;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
+ }
+#button1{
+    border-radius: 10px;
+    background-color: greenyellow;
+    padding: 10px;
+    color: black;
+    position: relative;left: 30px;
+}
+.exchange{
+    font-size: xx-large;
+    color: white;
+}
+.swipe{
+    font-size: smaller;
+    padding: 30px;
+    line-height: 1.8;
+    color: wheat;
+}
+body{
+    background-image: linear-gradient(black,darkgreen);
+}
+.assets{
+    color: wheat;
+    font-size: x-large;
+    position: relative; top: -400px;
+}
+.view{
+    color: white;
+    position: relative;left: 1110px;
+    position: relative; top: -400px;
+
+}
+table{
+    color: wheat;
+    width: 80%;
+    background-color: black;width: 100%;
+    background-position: center;
+    position: relative; top: -400px;
+
+}
+#buy{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+
+
+}
+#buy1{
+    border-radius:20px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+}
+#buy2{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+
+}
+#buy3{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+
+}
+#buy4{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+
+}
+#buy5{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+
+}
+#buy6{
+    border-radius:20px;
+    padding: 10px;
+    padding: 15px 32px;
+    background-color: palevioletred;
+}
+#trading{
+    padding: 15px 32px;
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+}
+.convinience{
+    position: relative;left: 650px;
+    position: relative;top: -1000px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: white;
+
+}
+.easyPay{
+        box-shadow: 0 0 5px 0 ;
+        background: inherit;width: 20%;height: 250px;
+        backdrop-filter: blur(10px);
+        position: relative;top: -300px;
+        border-radius: 15px;
+        position: relative;left: 70px;
+        color: white;
+        
+}
+.smart{
+    padding: 20px;
+    position: relative; top: -700px;
+    position: relative ;left: 70px;
+    font-size: large;
+}
+#h5{
+    color: greenyellow
+}
+#h2{
+    color: white;
+    font-size: xx-large;
+}
+#par{
+    color: white;
+}
+#explore{
+    background-color: black;
+    padding: 15px 32px;
+    color: green;font-weight: bold;
+}
+.pink{
+    background-color: hotpink;
+    border: solid 0.1px;
+    width: 20%;
+    height: 50vh;
+    border-radius: 20px;
+    position: relative; bottom: -80px;
+}
+.blue{
+    background-color: skyblue;
+    border: solid 0.1px;
+    width: 20%;
+    height: 50vh;
+    border-radius: 20px;
+}
+.pair{
+    padding: 20px;
+    display: flex;
+    gap: 30px;
+    position: relative;left: 560px;
+    position: relative;top: -1100px;
+}
+.clarity{
+    position: relative;left: 900px;
+}
+.confidence{
+    position: relative;left: 900px;
+}
+.community{
+    position: relative;left: 900px;
+    
+}
+#clarity1{
+    padding: 45px 50px;
+    border-radius: 30px;
+    background-color: black;
+    position: relative;right: 150px;
+    position: relative;bottom: -100px;
+    position: relative;top: -20px;
+}
+#confidence1{
+    border-radius: 30px;
+    padding: 45px 50px;
+    background-color: black;
+    position: relative;bottom: -100px;
+    position: relative;right: 150px;
+    position: relative;top: -20px;
+
+}
+#community1{
+    padding: 45px 50px;
+    border-radius: 30px;
+    background-color: black;
+    position: relative;bottom: -100px;
+    position: relative;right: 150px;
+    position: relative;top: -20px;
+
+}
+.countries{
+    position: relative;top: -1000px;
+    /* position: relative; left: 600px; */
+
+}
+#cryptoimage{
+    position: relative; left: 600px;
+    position: relative; top: -450px;
+}
+.ecosystem{
+    position: relative;top: -300px;
+    box-shadow: 0 0 5px 0 ;
+        background: inherit;width: 20%;height: 250px;
+        backdrop-filter: blur(10px);
+        position: relative;top: -300px;
+        border-radius: 15px;
+        position: relative;left: 70px;
+        color: white;
+}
+.protection{
+    position: relative;top: -300px;
+    box-shadow: 0 0 5px 0 ;
+        background: inherit;width: 20%;height: 250px;
+        backdrop-filter: blur(10px);
+        position: relative;top: -300px;
+        border-radius: 15px;
+        position: relative;left: 350px;
+        color: white;
+        position: relative;top: -700px;
+}
+.trustedPlat{
+    position: relative; top: -900px;
+}
+.clarity2{
+    position: relative;top: -1000px;
+}
+.future{
+    position: relative;top: -1000px;
+    position: relative;left: 750px;
+    font-size: larger;
+}
+.portfolio{
+    position: relative;top: -700px;
+    position: relative; left: 200px;
+}
+#image2{
+    position: relative;top: -1000px;
+    position: relative;left: 600px;
+}
+.port1{
+    font-size: large;
+    color: white;
+}
+.port2{
+    color: white;
+}
+.port3{
+    color: greenyellow;
+}
+#get{
+    border-radius: 15px ;
+    padding: 10px 15px;
+}
+#down{
+    border-radius: 15px ;
+    padding: 10px 15px;
+}
+.form{
+    text-align: center;
+    position: relative;top: -990px;
+    box-shadow: 0 0 5px 0 ;
+    background: inherit;width: 60%;height: 300px;
+    backdrop-filter: blur(10px);
+    width: 80%;
+    position: relative;left: 110px;
+}
+.starttrade{
+    color: greenyellow;
+    position: relative;bottom: -20px;
+}
+.reward{
+    color: white;
+    font-size: xx-large;
+}
+#text{
+    border-radius: 60px ;
+    padding: 20px;
+    width: 50%;
+}
+#oo2{
+    position: relative;bottom: -200px;
+    font-size: x-large;
+    position: relative;left: 30px;
+}
+#countries{
+    position: relative;bottom: -180px;
+    font-size: xx-large;
+    position: relative;left: 30px;
+
+}
+#om{
+    position: relative;bottom: -200px;
+    font-size: x-large;
+    font-weight: bolder;
+    position: relative;left: 30px;
+
+}
+#invest{
+    position: relative;bottom: -180px;
+    font-size: xx-large;
+    font-weight: bolder;
+    position: relative;left: 30px;
+
+}
+#hhhh{
+    position: relative;bottom: -100px;
+    text-align: center;
+}
+#pppp{
+    position: relative;bottom: -110px;
+    text-align: center;
+}
+#hh{
+    position: relative;bottom: -100px;
+    text-align: center;
+}
+#pp{
+    position: relative;bottom: -110px;
+    text-align: center;
+}
+#hhh{
+    position: relative;bottom: -100px;
+    text-align: center;
+}
+#ppp{
+    position: relative;bottom: -110px;
+    text-align: center;
+}
